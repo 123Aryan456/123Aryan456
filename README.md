@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is Aryan and I'm a Programmer, from Earth</h2>
 
 ###
 
@@ -44,7 +44,7 @@
 
 <br clear="both">
 
-<img src="snake.yml" alt="Snake animation" />
+
 
 ###
 

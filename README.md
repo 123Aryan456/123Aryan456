@@ -1,7 +1,7 @@
 <div align="center">
 
 # 💫 About Me:
-🔭 I’m currently working on: NeuraSense, a Python code analyzer, and Yan’s AI, an AI-powered mental health support system for schools and workplaces.<br>
+🔭 I’m currently working on: NeuraSense, a Python code analyzer, and Algosapiens, an AI-powered platform for Programming/Coding Education.<br>
 👯 I’m looking to collaborate on: AI/ML projects, innovative tech startups, or tools that enhance developer workflows.<br>
 🤝 I’m looking for help with: Expanding NeuraSense and Yan’s AI to create impactful solutions at scale.<br>
 🌱 I’m currently learning: Advanced quantum computing, cutting-edge AI/ML frameworks, and system-level hacking techniques.<br>

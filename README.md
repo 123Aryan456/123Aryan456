@@ -1,30 +1,50 @@
 <div align="center">
 
-# 💫 About Me:
-🔭 I’m currently working on: NeuraSense, a Python code analyzer, and Algosapiens, an AI-powered platform for Programming/Coding Education.<br>
-👯 I’m looking to collaborate on: AI/ML projects, innovative tech startups, or tools that enhance developer workflows.<br>
-🤝 I’m looking for help with: Expanding NeuraSense and Yan’s AI to create impactful solutions at scale.<br>
-🌱 I’m currently learning: Advanced quantum computing, cutting-edge AI/ML frameworks, and system-level hacking techniques.<br>
-💬 Ask me about: Building startups, creating AI-driven applications, or anything tech-related, especially around my projects like NEMO or Neurasense.<br><br>
+# 💫 About Me
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/noaryansehrawat) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aryan-sehrawat-916038248) 
+I build things that actually get used.
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat&logo=kotlin&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
+🔭 Currently building:  
+NeuraSense, a Python code analyzer, and AlgoSapiens, an AI-powered platform focused on practical programming education.
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=123Aryan456&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=123Aryan456&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=123Aryan456&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+👯 Open to collaborating on:  
+AI/ML projects, developer tools, startups, or anything that solves real problems at scale.
+
+🤝 Looking for help with:  
+Scaling NeuraSense and Yan’s AI into production-ready, high-impact systems.
+
+🌱 Currently learning:  
+Advanced AI/ML systems, quantum computing concepts, and low-level/system hacking.
+
+💬 Ask me about:  
+Building startups from scratch, AI-driven products, competitive programming, or my projects like NEMO and NeuraSense.
+
+<br>
+
+## 🌐 Socials
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/noaryansehrawat)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aryan-sehrawat-916038248)
+
+## 💻 Tech Stack
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=flat&logo=kotlin&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
+
+## 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=123Aryan456&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=123Aryan456&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=123Aryan456&theme=dark&hide_border=false&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=123Aryan456&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### 🔝 Top Contributed Repo
+## 🔝 Top Contributions
 ![](https://github-contributor-stats.vercel.app/api?username=123Aryan456&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-## 💰 You can help me by Donating
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/aryansehrawat) 
+## ☕ Support
+If you like what I build and want to support the work:
+<br>
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/aryansehrawat)
 
 </div>
